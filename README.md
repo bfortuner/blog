@@ -5,7 +5,7 @@ Personal blog using Jekyll and GitHub pages. Visit www.brendanfortuner.com
 - sudo pip install nodeenv
 
 ##Setup Workspace
--cd ~/workplace/blog
+- cd ~/workplace/blog
 - nodeenv env
 - . env/bin/activate
 - npm install -g bower
