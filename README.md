@@ -4,14 +4,14 @@ Personal blog using Jekyll and GitHub pages. Visit www.brendanfortuner.com
 ##Prerequisites
 - sudo pip install nodeenv
 
-##Setup Workspace
+##Create Workspace
 - cd ~/workplace/blog
 - nodeenv env
 - . env/bin/activate
 - npm install -g bower
 - npm install -g grunt-cli
 
-##Build App
+##Get App
 - git clone https://github.com/bfortuner/blog.git
 - cd blog/
 - npm install
