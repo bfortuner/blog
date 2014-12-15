@@ -22,3 +22,6 @@ Personal blog using Jekyll and GitHub pages. Visit www.brendanfortuner.com
 ##Push Changes To GitHub
 - grunt serve:dist
 - grunt deploy
+
+##Links
+- https://github.com/robwierzbowski/generator-jekyllrb
