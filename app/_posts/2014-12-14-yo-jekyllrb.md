@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yo Jekyll!"
+title:  "Yo Jekyll, buddy!"
 categories: jekyll update
 ---
 
