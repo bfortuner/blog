@@ -25,17 +25,7 @@ markdown: redcarpet
 
 pygments: true
 
-defaults:
-   -
-    scope:
-      path: "projects"
-      #type: "pages" # previously `page` in Jekyll 2.2.
-    values:
-      layout: "projects_page" # overrides previous default layout
-#  -
-#    scope:
-#      path: ""
-#      type: "posts"
-#    values:
-#      layout: "my-site"
-#  -
+collections:
+    projects:
+        output: true
+        title: projects
