@@ -24,3 +24,18 @@ markdown: redcarpet
 #   extensions: ['fenced_code_blocks', 'smart']
 
 pygments: true
+
+defaults:
+   -
+    scope:
+      path: "projects"
+      #type: "pages" # previously `page` in Jekyll 2.2.
+    values:
+      layout: "projects_page" # overrides previous default layout
+#  -
+#    scope:
+#      path: ""
+#      type: "posts"
+#    values:
+#      layout: "my-site"
+#  -
